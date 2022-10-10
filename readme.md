@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://fastidious-raindrop-eded17.netlify.app/)_
+>### _[**Live Link**](https://fabulous-tapioca-043dd4.netlify.app/)_
 
 <br>
 
